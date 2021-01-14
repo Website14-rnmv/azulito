@@ -134,7 +134,7 @@ header{
     .wid h4{
         margin: 10px 0;
         padding: 10px;
-        font-size: 15spx;
+        font-size: 15px;
         border:  1px solid var(--var-azul);
         color: var(--var-azul);
     }
